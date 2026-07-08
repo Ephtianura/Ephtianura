@@ -15,7 +15,7 @@
 Мене звати **Костянтин**, радий знайомству!
 
 Останні **2 роки** я присвятив фріланс-розробці, перетворюючи ідеї клієнтів на працюючі продукти. 
-Мій фокус – це надійний Backend на **C#** та чисті архітектурні рішення, які витримують навантаження.
+Мій фокус – надійний Backend на **C#** та чисті архітектурні рішення, які витримують навантаження.
 </p>
 
 <h2 align="left">🚀 Що варто знати про мій досвід</h2>
@@ -54,20 +54,23 @@
 
 <table border="0">
   <tr>
-    <td>
+    <td align="center" valign="middle">
       <a href="https://t.me/KykKyki" target="_blank">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="40" alt="telegram"/>
-      </a>
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="40" alt="telegram" align="center"/>
+      </a>      
+      <a href="https://t.me/KykKyki" target="_blank"><b>Telegram</b></a>
     </td>
-    <td>
+    <td align="center" valign="middle">
       <a href="https://www.linkedin.com/in/mantsurov-kostiantyn/" target="_blank">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" alt="linkedin"/>
-      </a>
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" alt="linkedin" align="center"/>
+      </a>     
+      <a href="https://www.linkedin.com/in/mantsurov-kostiantyn/" target="_blank"><b>LinkedIn</b></a>
     </td>
-    <td>
+    <td align="center" valign="middle">
       <a href="mailto:k.mantsurov@gmail.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" alt="gmail"/>
-      </a>
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" alt="gmail" align="center"/>
+      </a>     
+      <a href="mailto:k.mantsurov@gmail.com" target="_blank"><b>Gmail</b></a>
     </td>
   </tr>
 </table>
