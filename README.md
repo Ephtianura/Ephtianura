@@ -43,7 +43,7 @@
       <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" alt="Frontend Skills" />
     </td>
     <td align="center" valign="top" width="38%">
-      <img src="https://skillicons.dev/icons?i=aws,nginx,docker,git,postman,visualstudio,vscode,arduino&perline=5" alt="Tools" />
+      <img src="https://skillicons.dev/icons?i=cloudflare,aws,nginx,docker,git,postman,visualstudio,vscode,arduino&perline=5" alt="Tools" />
     </td>
   </tr>
 </table>
@@ -81,7 +81,7 @@
 
 > **[AniFlow.xyz](https://aniflow.xyz)** – агрегатор аніме-контенту з фокусом на українську аудиторію.
 
-Проєкт з’явився з ідеї зробити доступ до аніме більш зручним для українських користувачів. 
+Платформа для перегляду аніме фільмів та серіалів. 
 
 Основний фокус зроблений на надійному бекенді та якісному UX.
 
@@ -92,7 +92,7 @@
 Окремо продумана інтеграція з кількома зовнішніми відеоплеєрами та фонова синхронізація контенту через RabbitMQ у власну базу даних для стабільного оновлення каталогу. 
 А також розроблена система онлайну через SignalR.
 
-Проєкт все ще розвивається і поступово обростає новими можливостями.
+AniFlow все ще розвивається і поступово обростає новими можливостями.
 
 💻 **[Детальніше тут](https://github.com/Ephtianura/aniflow)**
 
