@@ -52,28 +52,15 @@
 
 <h2 align="left">🔗 Contacts</h2>
 
-<table border="0">
-  <tr>
-    <td align="center" valign="middle">
-      <a href="https://t.me/KykKyki" target="_blank">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="40" alt="telegram" align="center"/>
-      </a>      
-      <a href="https://t.me/KykKyki" target="_blank"><b>Telegram</b></a>
-    </td>
-    <td align="center" valign="middle">
-      <a href="https://www.linkedin.com/in/mantsurov-kostiantyn/" target="_blank">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" alt="linkedin" align="center"/>
-      </a>     
-      <a href="https://www.linkedin.com/in/mantsurov-kostiantyn/" target="_blank"><b>LinkedIn</b></a>
-    </td>
-    <td align="center" valign="middle">
-      <a href="mailto:k.mantsurov@gmail.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" alt="gmail" align="center"/>
-      </a>     
-      <a href="mailto:k.mantsurov@gmail.com" target="_blank"><b>Gmail</b></a>
-    </td>
-  </tr>
-</table>
+<a href="https://t.me/KykKyki">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" height="36" />
+</a>
+<a href="https://www.linkedin.com/in/mantsurov-kostiantyn/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="36" />
+</a>
+<a href="mailto:k.mantsurov@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="36" />
+</a>
 
 ###
 
